@@ -88,4 +88,4 @@ $ git rebase --continue
 - Linkedin: https://www.linkedin.com/in/%E7%B4%8B%E7%91%8B-%E5%8A%89-03356584/
 - CakeResume: https://www.cakeresume.com/me/ak790718
 
-##### link: https://github.com/MarkwwLiu/git_teaching/blob/main/git_conflict/git_conflict.md
+##### link: https://github.com/MarkwwLiu/git_teaching/blob/main/conlict_and_resolve/conlict_and_resolve.md
