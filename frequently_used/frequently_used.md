@@ -119,7 +119,6 @@ git update-ref -d refs/heads/QA-1234\ 2
 
 #### 關於我的連結
 - GitHub: https://github.com/MarkwwLiu
-- Facebook: https://www.facebook.com/TestMrMark
 - Linkedin: https://www.linkedin.com/in/%E7%B4%8B%E7%91%8B-%E5%8A%89-03356584/
 - CakeResume: https://www.cakeresume.com/me/ak790718
 
